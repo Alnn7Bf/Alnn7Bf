@@ -58,5 +58,5 @@ Busco crecer tanto a nivel técnico como personal, con disciplina, constancia y 
 ## Contacto
 
 <!-- Puedes usar íconos aquí también -->
-- Instagral: [@Alnn7Bf](https://instagram.com/alnn7_bf)
+- Instagram: [@Alnn7Bf](https://instagram.com/alnn7_bf)
 - Correo: alanubf2018@gmail.com
