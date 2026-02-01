@@ -39,8 +39,8 @@ Busco crecer tanto a nivel técnico como personal, con disciplina, constancia y 
 ## Proyectos
 
 <!-- Agrega proyectos conforme avances -->
-- **[Mained | Mantenimiento Integral](mained-pc.netlify.app)** – Landing Page desarrollada con React y Tailwind
-- **[ModSaes]** – Extensión del SAES para facilitar la experiencia de los alumnos. Desarrollada con HTML, CSS y JS Vanilla
+- **[Mained | Mantenimiento Integral](https://github.com/Alnn7Bf/Mained)** – Landing Page desarrollada con React y Tailwind
+- **[ModSaes](https://github.com/Alnn7Bf/ModSaes)** – Extensión del SAES para facilitar la experiencia de los alumnos. Desarrollada con HTML, CSS y JS Vanilla
 
 > Más proyectos próximamente.
 
